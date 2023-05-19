@@ -32,25 +32,5 @@ public class Menu {
        type3.imprimirTipo();
        type3.imprimirMarchas();
        System.out.println("El valor es de $990");
-
-       //Selector de compra
-       Scanner entrada = new Scanner(System.in);
-
-       System.out.println("\nUsuario, ingrese la bicileta a comprar: ");
-       int opt = entrada.nextInt();
-
-       switch(opt){
-           case 1:
-               System.out.println("\n--> Ha seleccinado bicicleta de Montana");
-               break;
-           case 2:
-               System.out.println("\n--> Ha seleccinado bicicleta Electrica");
-               break;
-           case 3 :
-               System.out.println("\n--> Ha seleccinado bicicleta Deportiva");
-               break;
-           default:
-               System.out.println("\n--> Bicileta no encontrada!");
-       }
    }
 }
