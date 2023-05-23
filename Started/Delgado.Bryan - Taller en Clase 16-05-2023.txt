@@ -1,0 +1,14 @@
+Nombre: Delgado Bryan
+Fecha: 16/05/2023
+
+1. ¿Qué es una clase?
+Una clase es un elemento de la progranmación orientada a objetos que permite albergar un conjunto de atributos y métodos a un objeto en concreto, para poder designar estas mismas características a cada uno de los elementos correlacionados entre sí a esta clase. 
+
+2. ¿Qué es objeto?
+Un objeto es un elemento, ya sea físico o digital, al cual se le pueden asignar comportamientos y acciones específicas para controlar su funcionalidad dentro de un programa. 
+
+3. ¿Qué es atributo?
+Se define como el conjunto de características generalizadas para los objetos pertenecientes a una clase en específico e influyen en el nombramiento generalizado de estos. Son globales por clase y por programa.
+
+4. ¿Qué es método?
+Contrario a los atributos, los métodos son acciones o identificadores funcionales que se pueden asignar a un objeto en específico, no son de cdaracter global y pueden ser modificables por los métodos subyacentes a esa clase. 
